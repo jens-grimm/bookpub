@@ -1,7 +1,5 @@
 package org.test.bookpub;
 
-
-
 import javax.sql.DataSource;
 
 import org.apache.commons.logging.Log;
